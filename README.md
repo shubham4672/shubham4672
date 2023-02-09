@@ -6,9 +6,9 @@
 
 <h3 align="center">Passionate Developer</h3>
 
-- 🌱 I’m currently learning **C++,javascript**
+- 🌱 I’m currently learning **C++, Javascript**
 
-- ⚡ Fun fact **Watching You**
+- ⚡ Fun fact **Watching you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
