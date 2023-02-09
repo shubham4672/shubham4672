@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++,javascript**
 
-- ⚡ Fun fact **Burgir**
+- ⚡ Fun fact **Watching You**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
