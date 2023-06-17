@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++, Javascript**
 
-- ⚡ Fun fact **Watching you**
+- ⚡ Fact: **Ease in my own shell**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
