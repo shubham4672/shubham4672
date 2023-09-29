@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" height="400" width="600"/>
+<div align='center'>
+   <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" height="400" width="600" align="center"/><br/>
+</div>
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
