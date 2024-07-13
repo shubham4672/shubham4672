@@ -87,7 +87,7 @@
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-in/microsoft-365/products-apps-services" target="_blank" rel="noreferrer">
     <img src="https://www.cdnlogo.com/logos/o/96/office.svg" alt="word" width="40" height="40"/>
   </a>
 </p>
