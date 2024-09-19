@@ -95,4 +95,7 @@ Feel free to ask anything.
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham4672&theme=highcontrast" alt="shubham4672" /></p>
-<img src="https://komarev.com/ghpvc/?username=shubham4672&label=Profile%20views&color=0e75b6&style=flat" alt="shubham4672" />Thanks for visiting.
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=shubham4672&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a><br> <em>Appreciate your visit</em>
