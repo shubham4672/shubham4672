@@ -94,7 +94,7 @@ Feel free to ask anything.
 # 📊 GitHub Stats:
 <div>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham4672&theme=highcontrast" align="left" alt="shubham4672" /><br> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4672&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="right" alt="shubham4672's GitHub Stats" /><br/><br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4672&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="right" alt="shubham4672's GitHub Stats" /><br/><br/><br/><br/><br/><br/>
 </div>
 
 <img src="https://visitcount.itsvg.in/api?id=shubham4672&label=Profile%20Views&color=1&icon=5&pretty=true"/>
