@@ -17,13 +17,13 @@ Feel free to ask anything.
 
 # 🌐 Connect with Me:
 <p align="left">
-<a href="https://twitter.com/shubham5211713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham52117133" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubhamsharma888/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsharma888/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18681952/shubham-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/18681952/shubham-sharma" height="30" width="40" /></a>
-<a href="https://discord.gg/Shubham4672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shubham4672" height="30" width="40" /></a>
+<a href="https://twitter.com/shubham5211713" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="shubham52117133" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhamsharma888/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="shubhamsharma888/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18681952/shubham-sharma" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="users/18681952/shubham-sharma" height="30" width="40" /></a>
+<a href="https://discord.gg/Shubham4672" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Shubham4672" height="30" width="40" /></a>
 </p> <br/>
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,css,javascript,html,netlify,vercel,ts,bootstrap,react,nodejs,express,gitlab,github,tailwind,npm" />
     <img src="https://skillicons.dev/icons?i=figma,vscode,git,postman,mysql,pr,vite,idea,notion&theme=light" /><br>
