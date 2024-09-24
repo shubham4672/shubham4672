@@ -4,21 +4,24 @@
 <div align='center'>
    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=800&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Shubham+Sharma" alt="Bio line" />
 </div>
-<h3 align="center">🚀A Passionate Full-Stack Developer - Always pushing the limits of what’s possible on the web!</h3>
-<br/>
+
+<h3 align="center">🚀A Passionate Full-Stack Developer - Always pushing the limits of what’s possible on the web!</h3><br/>
+
+# 💫 About Me:
 
 - 🌱 Currently diving deep into **React.js** – bringing dynamic, responsive interfaces to life!
 
 - 💡 Need help with Web Development?
 Feel free to ask anything.
+- 📫 How to reach me shubham4672.20@gmail.com <br/>
 
-<h3 align="left">Connect with me:</h3>
+# 🌐 Connect with Me:
 <p align="left">
 <a href="https://twitter.com/shubham5211713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham52117133" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhamsharma888/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsharma888/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18681952/shubham-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/18681952/shubham-sharma" height="30" width="40" /></a>
 <a href="https://discord.gg/Shubham4672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shubham4672" height="30" width="40" /></a>
-</p>
+</p> <br/>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -86,9 +89,13 @@ Feel free to ask anything.
     <img src="https://www.cdnlogo.com/logos/o/96/office.svg" alt="word" width="40" height="40"/>
   </a> &nbsp; &nbsp;
 </p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham4672&theme=highcontrast" alt="shubham4672" /></p>
+# 📊 GitHub Stats:
+<div>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham4672&theme=highcontrast" align="left" alt="shubham4672" /><br> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4672&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="right" alt="shubham4672's GitHub Stats" /><br/><br/>
+</div>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=shubham4672&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</a><br> <em>Appreciate your visit</em>
+<em>Appreciate your visit</em>
+<img src="https://visitcount.itsvg.in/api?id=shubham4672&label=Profile%20Views&color=1&icon=5&pretty=true"/>
