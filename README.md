@@ -39,6 +39,4 @@ Feel free to ask anything.
 
 <div align="center">
    <img src="https://visitcount.itsvg.in/api?id=shubham4672&label=Profile%20Views&color=1&icon=5&pretty=true" align="left"/>
-   <br/>
-   <em>Appreciate your visit</em>
 </div>
