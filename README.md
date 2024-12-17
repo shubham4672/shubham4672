@@ -8,7 +8,7 @@
 <h3 align="center">🚀A Passionate Full-Stack Developer - Always pushing the limits of what’s possible on the web!</h3><br/>
 
 # 💫 About Me:
-
+   <img src="https://camo.githubusercontent.com/d3a1f5fc3d484264fcc830859e889775f093e308ed138a09745d1f008e6bca57/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f666f726d61743a776562702f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" height="200" width="290" align="right"/><br/><br/>
 - 🌱 Currently diving deep into **React.js** – bringing dynamic, responsive interfaces to life!
 
 - 💡 Need help with Web Development?
