@@ -25,8 +25,8 @@ Feel free to ask anything.
 
 # 💻 Tech Stack:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,css,javascript,html,netlify,vercel,ts,bootstrap,react,nodejs,express,gitlab,github,tailwind,npm" />
-    <img src="https://skillicons.dev/icons?i=figma,vscode,git,postman,mysql,pr,vite,idea,notion&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=java,css,javascript,html,netlify,vercel,ts,bootstrap,react,nodejs,express,gitlab,mongodb,tailwind,npm" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman,mysql,pr,vite,idea,notion&theme=light" /><br>
 </div>
 
 <br/>
