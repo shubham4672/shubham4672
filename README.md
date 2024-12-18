@@ -1,3 +1,4 @@
+
 <div align='center'>
    <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="380" width="600" align="center"/><br/><br/>
 </div>
@@ -40,3 +41,5 @@ Feel free to ask anything.
 <div align="center">
    <img src="https://visitcount.itsvg.in/api?id=shubham4672&label=Profile%20Views&color=1&icon=5&pretty=true" align="left"/>
 </div>
+
+[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham4672&bg_color=000000&color=f1fdb4&line=523b91&point=58f980&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
