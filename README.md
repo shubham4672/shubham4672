@@ -22,7 +22,9 @@ Feel free to ask anything.
 <a href="https://linkedin.com/in/shubhamsharma888/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="shubhamsharma888/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18681952/shubham-sharma" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="users/18681952/shubham-sharma" height="30" width="40" /></a>
 <a href="https://discord.gg/Shubham4672" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Shubham4672" height="30" width="40" /></a>
-</p> <br/>
+</p>    <p align="right"> <img src="https://komarev.com/ghpvc/?username=shubham4672&label=View%20Count&color=8080ff&style=plastic" alt="shubham4672" /> </p>
+
+<br/>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -36,7 +38,6 @@ Feel free to ask anything.
 <div>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham4672&theme=highcontrast" align="left" alt="shubham4672" /><br> 
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham4672&show_icons=true&theme=tokyonight&title_color=ff8040&text_color=ffff00&hide_border=true&locale=en" alt="shubham4672" /></p>
-   <p align="right"> <img src="https://komarev.com/ghpvc/?username=shubham4672&label=View%20Count&color=8080ff&style=plastic" alt="shubham4672" /> </p>
 </div>
 
 [![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham4672&bg_color=000000&color=f1fdb4&line=523b91&point=58f980&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
