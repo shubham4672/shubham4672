@@ -35,11 +35,8 @@ Feel free to ask anything.
 # 📊 GitHub Stats:
 <div>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham4672&theme=highcontrast" align="left" alt="shubham4672" /><br> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4672&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" align="right" alt="shubham4672's GitHub Stats" />
-</div>
-
-<div align="center">
-   <img src="https://visitcount.itsvg.in/api?id=shubham4672&label=Profile%20Views&color=1&icon=5&pretty=true" align="left"/>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham4672&show_icons=true&theme=tokyonight&title_color=ff8040&text_color=ffff00&hide_border=true&locale=en" alt="shubham4672" /></p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubham4672&label=View%20Count&color=8080ff&style=plastic" alt="shubham4672" /> </p>
 </div>
 
 [![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham4672&bg_color=000000&color=f1fdb4&line=523b91&point=58f980&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
