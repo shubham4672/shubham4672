@@ -6,7 +6,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=800&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Shubham+Sharma" alt="Bio line" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham4672&label=View%20Count&color=8080ff&style=plastic" alt="shubham4672" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham4672&label=View%20Count&color=8080ff&style=plastic" alt="shubham4672" width="180px"/> </p>
 <h3 align="center">🚀A Passionate Full-Stack Developer - Always pushing the limits of what’s possible on the web!</h3><br/>
   
 # 💫 About Me:
