@@ -6,8 +6,8 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=800&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Shubham+Sharma" alt="Bio line" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham4672&label=View%20Count&color=8080ff&style=plastic" alt="shubham4672" width="105px"/> </p>
 <h3 align="center">🚀A Passionate Full-Stack Developer - Always pushing the limits of what’s possible on the web!</h3><br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham4672&label=View%20Count&color=8080ff&style=plastic" alt="shubham4672" width="105px"/> </p>
   
 # 💫 About Me:
    <img src="https://camo.githubusercontent.com/d3a1f5fc3d484264fcc830859e889775f093e308ed138a09745d1f008e6bca57/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f666f726d61743a776562702f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" height="200" width="290" align="right"/><br/><br/>
