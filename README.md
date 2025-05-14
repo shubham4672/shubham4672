@@ -22,7 +22,7 @@ Feel free to ask anything.
 <a href="https://twitter.com/xShubhamS" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="shubham52117133" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shubham4672/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="shubhamsharma888/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18681952/shubham-sharma" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="users/18681952/shubham-sharma" height="30" width="40" /></a>
-<a href="https://discord.gg/Shubham4672" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Shubham4672" height="30" width="40" /></a>
+<a href="discordapp.com/users/903139926869172276" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Shubham4672" height="30" width="40" /></a>
 </p> <br/>
 
 # 💻 Tech Stack:
