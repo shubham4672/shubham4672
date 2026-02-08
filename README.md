@@ -1,4 +1,3 @@
-
 <div align='center'>
    <img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="370" width="590" align="center"/><br/><br/>
 </div>
@@ -10,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham4672&label=View%20Count&color=8080ff&style=plastic" alt="shubham4672" width="105px"/> </p>
   
 # 💫 About Me:
-   <img src="https://camo.githubusercontent.com/d3a1f5fc3d484264fcc830859e889775f093e308ed138a09745d1f008e6bca57/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f666f726d61743a776562702f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" height="200" width="290" align="right"/><br/><br/>
+   <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg" height="200" width="290" align="right"/><br/><br/>
 - 🌱 Currently diving deep into **React.js** – bringing dynamic, responsive interfaces to life!
 
 - 💡 Need help with Web Development?
